@@ -175,20 +175,13 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Singebob">
-            <img src="https://avatars.githubusercontent.com/u/24290044?v=4" width="80;" alt="Singebob"/>
-            <br />
-            <sub><b>Jeremy Chauvin</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/0n1cOn3">
             <img src="https://avatars.githubusercontent.com/u/27576311?v=4" width="80;" alt="0n1cOn3"/>
             <br />
             <sub><b>0n1cOn3</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BRAVO68WEB">
             <img src="https://avatars.githubusercontent.com/u/41448663?v=4" width="80;" alt="BRAVO68WEB"/>
@@ -215,6 +208,13 @@
             <img src="https://avatars.githubusercontent.com/u/60907429?v=4" width="80;" alt="deepsourcebot"/>
             <br />
             <sub><b>DeepSource Bot</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/dougaldhub">
+            <img src="https://avatars.githubusercontent.com/u/25713235?v=4" width="80;" alt="dougaldhub"/>
+            <br />
+            <sub><b>Doug Lock</b></sub>
         </a>
     </td></tr>
 </table>
