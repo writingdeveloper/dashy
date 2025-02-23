@@ -175,13 +175,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/asenov">
+            <img src="https://avatars.githubusercontent.com/u/280619?v=4" width="80;" alt="asenov"/>
+            <br />
+            <sub><b>Мирослав Асенов</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/markusdd">
             <img src="https://avatars.githubusercontent.com/u/25175069?v=4" width="80;" alt="markusdd"/>
             <br />
             <sub><b>Markus Krause</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/PlusaN">
             <img src="https://avatars.githubusercontent.com/u/61884717?v=4" width="80;" alt="PlusaN"/>
@@ -208,13 +215,6 @@
             <img src="https://avatars.githubusercontent.com/u/139828242?v=4" width="80;" alt="royshreyaa"/>
             <br />
             <sub><b>Shreya Roy</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/XenonR">
-            <img src="https://avatars.githubusercontent.com/u/18627623?v=4" width="80;" alt="XenonR"/>
-            <br />
-            <sub><b>Steffen Schmidt</b></sub>
         </a>
     </td></tr>
 </table>
