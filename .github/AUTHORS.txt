@@ -39,6 +39,7 @@ Brendan O&#39;Leary <boleary@gitlab.com> - 2 commits
 CHAIYEON CHO <stoutcho21@gmail.com> - 2 commits
 Dan Gilbert <ddg@daentech.co.uk> - 2 commits
 Ruben Silva <rubensilva945@gmail.com> - 2 commits
+dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> - 2 commits
 k073l <21180271+k073l@users.noreply.github.com> - 2 commits
 patrickheeney <patrickheeney@gmail.com> - 2 commits
 ᗪєνιη ᗷυнʟ <onedr0p@users.noreply.github.com> - 2 commits
@@ -53,7 +54,6 @@ Rémy GRANDIN <remy.gr@ndin.fr> - 4 commits
 Walkx <walkxnl@gmail.com> - 4 commits
 Alicie <gh@d0h.co> - 5 commits
 UrekD <urek.denis@gmail.com> - 5 commits
-dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> - 5 commits
 Erik Vroon <erik.vroon22@gmail.com> - 6 commits
 Leonardo Covarrubias <leos@leocov.com> - 6 commits
 Kashif Sohail <kashif.ezone@gmail.com> - 9 commits
@@ -67,7 +67,7 @@ Marcell Fülöp <marekful@protonmail.com> - 24 commits
 Alicia Bot <87835202+liss-bot@users.noreply.github.com> - 90 commits
 liss-bot <liss-bot@d0h.co> - 113 commits
 Alicia Sykes <alicia@omg.lol> - 166 commits
-repo-visualizer <repo-visualizer@users.noreply.github.com> - 253 commits
-github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 270 commits
+repo-visualizer <repo-visualizer@users.noreply.github.com> - 255 commits
+github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 271 commits
 Alicia Sykes <gh@d0h.co> - 435 commits
 Alicia Sykes <sykes.alicia@gmail.com> - 1403 commits
